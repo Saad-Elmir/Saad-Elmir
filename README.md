@@ -1,12 +1,11 @@
-# Saad EL MIR
+# Hi there, I'm Saad 👋
 
 🎓 Digital Health Engineering Student | AI in Healthcare | Clinical Data & Decision Support  
-📍 Casablanca, Morocco  
-📅 Seeking a 6-month Final-Year Internship (PFE) – Starting February 2026  
+
 
 ---
 
-## 👨‍⚕️ About Me
+##  About Me
 
 I am a Digital Health Engineering student at UM6SS, passionate about applying Artificial Intelligence and Data Science to healthcare systems.
 
@@ -70,5 +69,5 @@ I aim to contribute to impactful e-health and AI-driven healthcare solutions.
 
 📧 saad.elmir2020@gmail.com 
 🔗 LinkedIN: https://www.linkedin.com/in/saad-el-mir-74156023b/
-📍 Casablanca, Morocco
+
 
